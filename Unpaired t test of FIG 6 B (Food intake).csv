@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,FIG 6 B (Food intake)
+,
+Column C,w1118
+vs.,vs.
+Column B,Pink1B9;+;+
+,
+Unpaired t test,
+    P value,0.4033
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+    One- or two-tailed P value?,Two-tailed
+    t, df,t=0.8728, df=10
+,
+How big is the difference?,
+    Mean of column B,2.101
+    Mean of column C,1.804
+    Difference between means (C - B) ± SEM,-0.2970 ± 0.3403
+    95% confidence interval,-1.055 to 0.4612
+    R squared (eta squared),0.07078
+,
+F test to compare variances,
+    F, DFn, Dfd,1.338, 5, 5
+    P value,0.7569
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+,
+Data analyzed,
+    Sample size, column B,6
+    Sample size, column C,6

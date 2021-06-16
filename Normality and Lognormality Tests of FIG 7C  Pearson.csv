@@ -1,0 +1,27 @@
+﻿,w1118; NP3084/+; UASmitoGFP/+,Pink1B9; NP3084/+; UASmitoGFP/+,Pink1B9; NP3084/RelRNAi; UASmitoGFP/+
+Test for normal distribution,,,
+  Anderson-Darling test,,,
+    A2*,0.2544,0.2232,0.4264
+    P value,0.6470,0.7609,0.2615
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes
+    P value summary,ns,ns,ns
+,,,
+  D'Agostino & Pearson test,,,
+    K2,0.7483,0.05527,0.8264
+    P value,0.6879,0.9727,0.6615
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes
+    P value summary,ns,ns,ns
+,,,
+  Shapiro-Wilk test,,,
+    W,0.9595,0.9627,0.9322
+    P value,0.7801,0.8161,0.4040
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes
+    P value summary,ns,ns,ns
+,,,
+  Kolmogorov-Smirnov test,,,
+    KS distance,0.1746,0.1250,0.2527
+    P value,>0.1000,>0.1000,0.0330
+    Passed normality test (alpha=0.05)?,Yes,Yes,No
+    P value summary,ns,ns,*
+,,,
+Number of values,10,10,12

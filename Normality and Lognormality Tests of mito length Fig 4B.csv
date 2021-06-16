@@ -1,0 +1,27 @@
+﻿,w1118, NP3084>mitoGFP,pink1B9, NP3084>mitoGFP
+Test for normal distribution,,
+  Anderson-Darling test,,
+    A2*,1.012,1.207
+    P value,0.0111,0.0037
+    Passed normality test (alpha=0.05)?,No,No
+    P value summary,*,**
+,,
+  D'Agostino & Pearson test,,
+    K2,11.97,8.217
+    P value,0.0025,0.0164
+    Passed normality test (alpha=0.05)?,No,No
+    P value summary,**,*
+,,
+  Shapiro-Wilk test,,
+    W,0.9643,0.9741
+    P value,0.0015,0.0042
+    Passed normality test (alpha=0.05)?,No,No
+    P value summary,**,**
+,,
+  Kolmogorov-Smirnov test,,
+    KS distance,0.07632,0.09109
+    P value,0.0554,0.0025
+    Passed normality test (alpha=0.05)?,Yes,No
+    P value summary,ns,**
+,,
+Number of values,133,160

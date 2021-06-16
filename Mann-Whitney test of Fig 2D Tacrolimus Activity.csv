@@ -1,0 +1,21 @@
+﻿,
+Table Analyzed,Fig 2D Tacrolimus Activity
+,
+Column B,Pink1B9;+;+ Tacroliumus 0.25mM
+vs.,vs.
+Column A,Pink1B9;+;+ DMSO 0.2%
+,
+Mann Whitney test,
+    P value,0.0264
+    Exact or approximate P value?,Exact
+    P value summary,*
+    Significantly different (P < 0.05)?,Yes
+    One- or two-tailed P value?,Two-tailed
+    Sum of  ranks in column A,B,452 , 451
+    Mann-Whitney U,126
+,
+Difference between medians,
+    Median of column A,1268, n=17
+    Median of column B,1220, n=25
+    Difference: Actual,-48.86
+    Difference: Hodges-Lehmann,-56.29

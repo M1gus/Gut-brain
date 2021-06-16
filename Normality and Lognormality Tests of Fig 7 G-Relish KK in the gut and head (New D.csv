@@ -1,0 +1,27 @@
+﻿,pink1B9;NP3084>GAL4, gut,pink1B9;NP3084>Rel kk, gut,pink1B9;NP3084>GAL4, head,pink1B9;NP3084>Rel kk, head
+Test for normal distribution,,,,
+  Anderson-Darling test,,,,
+    A2*,N too small,N too small,N too small,N too small
+    P value,,,,
+    Passed normality test (alpha=0.05)?,,,,
+    P value summary,,,,
+,,,,
+  D'Agostino & Pearson test,,,,
+    K2,N too small,N too small,N too small,N too small
+    P value,,,,
+    Passed normality test (alpha=0.05)?,,,,
+    P value summary,,,,
+,,,,
+  Shapiro-Wilk test,,,,
+    W,0.8836,0.9811,0.9741,0.7314
+    P value,0.3541,0.9086,0.8670,0.0254
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes,No
+    P value summary,ns,ns,ns,*
+,,,,
+  Kolmogorov-Smirnov test,,,,
+    KS distance,N too small,N too small,N too small,N too small
+    P value,,,,
+    Passed normality test (alpha=0.05)?,,,,
+    P value summary,,,,
+,,,,
+Number of values,4,4,4,4

@@ -1,0 +1,27 @@
+﻿,Pink1 young,Pink1 Old,W young, white Old
+Test for normal distribution,,,,
+  Anderson-Darling test,,,,
+    A2*,N too small,N too small,N too small,N too small
+    P value,,,,
+    Passed normality test (alpha=0.05)?,,,,
+    P value summary,,,,
+,,,,
+  D'Agostino & Pearson test,,,,
+    K2,N too small,N too small,N too small,N too small
+    P value,,,,
+    Passed normality test (alpha=0.05)?,,,,
+    P value summary,,,,
+,,,,
+  Shapiro-Wilk test,,,,
+    W,0.9426,0.9621,0.9227,0.9654
+    P value,0.6801,0.8355,0.5247,0.8129
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes,Yes
+    P value summary,ns,ns,ns,ns
+,,,,
+  Kolmogorov-Smirnov test,,,,
+    KS distance,0.1807,0.1752,0.2776,N too small
+    P value,>0.1000,>0.1000,>0.1000,
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes,
+    P value summary,ns,ns,ns,
+,,,,
+Number of values,6,6,6,4

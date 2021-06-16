@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,FIG 7 E- Np3084 sleep
+,
+Column B,Pink1B9;NP3084>G4
+vs.,vs.
+Column A,Pink1B9;NP>Rel KK
+,
+Unpaired t test,
+    P value,0.0171
+    P value summary,*
+    Significantly different (P < 0.05)?,Yes
+    One- or two-tailed P value?,Two-tailed
+    t, df,t=2.479, df=44
+,
+How big is the difference?,
+    Mean of column A,1288
+    Mean of column B,1338
+    Difference between means (B - A) ± SEM,49.53 ± 19.98
+    95% confidence interval,9.263 to 89.81
+    R squared (eta squared),0.1225
+,
+F test to compare variances,
+    F, DFn, Dfd,4.517, 22, 22
+    P value,0.0008
+    P value summary,***
+    Significantly different (P < 0.05)?,Yes
+,
+Data analyzed,
+    Sample size, column A,23
+    Sample size, column B,23

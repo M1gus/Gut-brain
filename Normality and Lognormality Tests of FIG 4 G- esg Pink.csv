@@ -1,0 +1,27 @@
+﻿,w;esg>GFP,Pink1B9; esg>GFP
+Test for normal distribution,,
+  Anderson-Darling test,,
+    A2*,0.1929,0.6133
+    P value,0.8661,0.0864
+    Passed normality test (alpha=0.05)?,Yes,Yes
+    P value summary,ns,ns
+,,
+  D'Agostino & Pearson test,,
+    K2,0.06200,3.249
+    P value,0.9695,0.1970
+    Passed normality test (alpha=0.05)?,Yes,Yes
+    P value summary,ns,ns
+,,
+  Shapiro-Wilk test,,
+    W,0.9663,0.8831
+    P value,0.8683,0.0786
+    Passed normality test (alpha=0.05)?,Yes,Yes
+    P value summary,ns,ns
+,,
+  Kolmogorov-Smirnov test,,
+    KS distance,0.1144,0.2028
+    P value,>0.1000,>0.1000
+    Passed normality test (alpha=0.05)?,Yes,Yes
+    P value summary,ns,ns
+,,
+Number of values,12,13

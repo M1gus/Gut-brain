@@ -1,0 +1,27 @@
+﻿,w;CS/+,Pink1B9;+,+,Pink1B9;eya1/+,w;eya1/+
+Test for normal distribution,,,,
+  Anderson-Darling test,,,,
+    A2*,0.5541,0.6444,0.3104,0.6067
+    P value,0.1278,0.0618,0.5237,0.0972
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes,Yes
+    P value summary,ns,ns,ns,ns
+,,,,
+  D'Agostino & Pearson test,,,,
+    K2,1.864,7.432,0.6862,1.946
+    P value,0.3938,0.0243,0.7096,0.3780
+    Passed normality test (alpha=0.05)?,Yes,No,Yes,Yes
+    P value summary,ns,*,ns,ns
+,,,,
+  Shapiro-Wilk test,,,,
+    W,0.9333,0.8242,0.9554,0.9096
+    P value,0.2743,0.0384,0.4851,0.0846
+    Passed normality test (alpha=0.05)?,Yes,No,Yes,Yes
+    P value summary,ns,*,ns,ns
+,,,,
+  Kolmogorov-Smirnov test,,,,
+    KS distance,0.2083,0.2453,0.1527,0.1594
+    P value,0.0618,>0.1000,>0.1000,>0.1000
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes,Yes
+    P value summary,ns,ns,ns,ns
+,,,,
+Number of values,16,9,19,18

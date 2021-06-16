@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,FIG 6 G _data for stats
+,
+Column C,W young
+vs.,vs.
+Column A,Pink1 young
+,
+Unpaired t test,
+    P value,0.0466
+    P value summary,*
+    Significantly different (P < 0.05)?,Yes
+    One- or two-tailed P value?,Two-tailed
+    t, df,t=2.270, df=10
+,
+How big is the difference?,
+    Mean of column A,1.000
+    Mean of column C,0.6620
+    Difference between means (C - A) ± SEM,-0.3380 ± 0.1489
+    95% confidence interval,-0.6697 to -0.006232
+    R squared (eta squared),0.3401
+,
+F test to compare variances,
+    F, DFn, Dfd,9.419, 5, 5
+    P value,0.0279
+    P value summary,*
+    Significantly different (P < 0.05)?,Yes
+,
+Data analyzed,
+    Sample size, column A,6
+    Sample size, column C,6

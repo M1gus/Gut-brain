@@ -1,0 +1,12 @@
+﻿,,,,,,,,
+Number of families,1,,,,,,,
+Number of comparisons per family,2,,,,,,,
+Alpha,0.05,,,,,,,
+,,,,,,,,
+Dunnett's multiple comparisons test,Mean Diff.,95.00% CI of diff.,Below threshold?,Summary,Adjusted P Value,A-?,,
+  Pink1B9;NP3084>G4 vs. Pink1B9;NP3084>Buffy,14.92,7.241 to 22.59,Yes,***,0.0002,B,Pink1B9;NP3084>Buffy,
+  Pink1B9;NP3084>G4 vs. Pink1B9;NP3084>Pink1,23.77,15.94 to 31.61,Yes,****,<0.0001,C,Pink1B9;NP3084>Pink1,
+,,,,,,,,
+Test details,Mean 1,Mean 2,Mean Diff.,SE of diff.,n1,n2,q,DF
+  Pink1B9;NP3084>G4 vs. Pink1B9;NP3084>Buffy,36.50,21.58,14.92,3.314,10,12,4.501,30
+  Pink1B9;NP3084>G4 vs. Pink1B9;NP3084>Pink1,36.50,12.73,23.77,3.382,10,11,7.029,30
