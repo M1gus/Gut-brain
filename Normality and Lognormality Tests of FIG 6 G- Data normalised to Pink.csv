@@ -1,0 +1,27 @@
+﻿,Pink1B9;+;+,w1118
+Test for normal distribution,,
+  Anderson-Darling test,,
+    A2*,N too small,N too small
+    P value,,
+    Passed normality test (alpha=0.05)?,,
+    P value summary,,
+,,
+  D'Agostino & Pearson test,,
+    K2,N too small,N too small
+    P value,,
+    Passed normality test (alpha=0.05)?,,
+    P value summary,,
+,,
+  Shapiro-Wilk test,,
+    W,N too small,N too small
+    P value,,
+    Passed normality test (alpha=0.05)?,,
+    P value summary,,
+,,
+  Kolmogorov-Smirnov test,,
+    KS distance,N too small,N too small
+    P value,,
+    Passed normality test (alpha=0.05)?,,
+    P value summary,,
+,,
+Number of values,2,2

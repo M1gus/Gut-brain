@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,FIG 8 F - Bursicon
+,
+Column B,Pink1B9;NP3084>RelKK
+vs.,vs.
+Column A,Pink1B9
+,
+Unpaired t test,
+    P value,0.0080
+    P value summary,**
+    Significantly different (P < 0.05)?,Yes
+    One- or two-tailed P value?,Two-tailed
+    t, df,t=3.898, df=6
+,
+How big is the difference?,
+    Mean of column A,0.4133
+    Mean of column B,1.040
+    Difference between means (B - A) ± SEM,0.6272 ± 0.1609
+    95% confidence interval,0.2335 to 1.021
+    R squared (eta squared),0.7169
+,
+F test to compare variances,
+    F, DFn, Dfd,8.322, 3, 3
+    P value,0.1154
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+,
+Data analyzed,
+    Sample size, column A,4
+    Sample size, column B,4

@@ -1,0 +1,27 @@
+﻿,Gut NP3084>+,Gut NP3084>Pink1RNAi,Head NP3084>+,Head NP3084>Pink1RNAi
+Test for normal distribution,,,,
+  Anderson-Darling test,,,,
+    A2*,N too small,N too small,N too small,N too small
+    P value,,,,
+    Passed normality test (alpha=0.05)?,,,,
+    P value summary,,,,
+,,,,
+  D'Agostino & Pearson test,,,,
+    K2,N too small,N too small,N too small,N too small
+    P value,,,,
+    Passed normality test (alpha=0.05)?,,,,
+    P value summary,,,,
+,,,,
+  Shapiro-Wilk test,,,,
+    W,0.9093,0.9995,0.9397,0.8457
+    P value,0.4157,0.9594,0.5263,0.2290
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes,Yes
+    P value summary,ns,ns,ns,ns
+,,,,
+  Kolmogorov-Smirnov test,,,,
+    KS distance,N too small,N too small,N too small,N too small
+    P value,,,,
+    Passed normality test (alpha=0.05)?,,,,
+    P value summary,,,,
+,,,,
+Number of values,3,3,3,3

@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,FIG 3 D- Rel qPCR
+,
+Column B,w1118
+vs.,vs.
+Column A,Pink1B9;+;+
+,
+Unpaired t test,
+    P value,0.0684
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+    One- or two-tailed P value?,Two-tailed
+    t, df,t=2.477, df=4
+,
+How big is the difference?,
+    Mean of column A,1.029
+    Mean of column B,0.5092
+    Difference between means (B - A) ± SEM,-0.5196 ± 0.2098
+    95% confidence interval,-1.102 to 0.06287
+    R squared (eta squared),0.6053
+,
+F test to compare variances,
+    F, DFn, Dfd,2.739, 2, 2
+    P value,0.5348
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+,
+Data analyzed,
+    Sample size, column A,3
+    Sample size, column B,3

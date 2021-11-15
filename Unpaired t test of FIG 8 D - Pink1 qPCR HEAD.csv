@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,FIG 8 D - Pink1 qPCR
+,
+Column D,Head NP3084>Pink1RNAi
+vs.,vs.
+Column C,Head NP3084>+
+,
+Unpaired t test,
+    P value,0.9252
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+    One- or two-tailed P value?,Two-tailed
+    t, df,t=0.09992, df=4
+,
+How big is the difference?,
+    Mean of column C,1.009
+    Mean of column D,1.048
+    Difference between means (D - C) ± SEM,0.03884 ± 0.3887
+    95% confidence interval,-1.040 to 1.118
+    R squared (eta squared),0.002490
+,
+F test to compare variances,
+    F, DFn, Dfd,14.31, 2, 2
+    P value,0.1307
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+,
+Data analyzed,
+    Sample size, column C,3
+    Sample size, column D,3

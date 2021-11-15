@@ -1,0 +1,27 @@
+﻿,Pink1B9;NP3084>G4,Pink1B9;NP>Rel KK
+Test for normal distribution,,
+  Anderson-Darling test,,
+    A2*,N too small,N too small
+    P value,,
+    Passed normality test (alpha=0.05)?,,
+    P value summary,,
+,,
+  D'Agostino & Pearson test,,
+    K2,N too small,N too small
+    P value,,
+    Passed normality test (alpha=0.05)?,,
+    P value summary,,
+,,
+  Shapiro-Wilk test,,
+    W,0.9274,0.7579
+    P value,0.5787,0.0352
+    Passed normality test (alpha=0.05)?,Yes,No
+    P value summary,ns,*
+,,
+  Kolmogorov-Smirnov test,,
+    KS distance,0.2705,0.3448
+    P value,>0.1000,0.0521
+    Passed normality test (alpha=0.05)?,Yes,Yes
+    P value summary,ns,ns
+,,
+Number of values,5,5

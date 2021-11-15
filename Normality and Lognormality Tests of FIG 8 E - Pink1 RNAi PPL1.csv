@@ -1,0 +1,27 @@
+﻿,NP3084>+,NP3084> RNAi pink1 31170
+Test for normal distribution,,
+  Anderson-Darling test,,
+    A2*,2.038,2.324
+    P value,<0.0001,<0.0001
+    Passed normality test (alpha=0.05)?,No,No
+    P value summary,****,****
+,,
+  D'Agostino & Pearson test,,
+    K2,2.709,5.355
+    P value,0.2580,0.0688
+    Passed normality test (alpha=0.05)?,Yes,Yes
+    P value summary,ns,ns
+,,
+  Shapiro-Wilk test,,
+    W,0.6986,0.6081
+    P value,0.0008,0.0001
+    Passed normality test (alpha=0.05)?,No,No
+    P value summary,***,***
+,,
+  Kolmogorov-Smirnov test,,
+    KS distance,0.3976,0.4175
+    P value,<0.0001,<0.0001
+    Passed normality test (alpha=0.05)?,No,No
+    P value summary,****,****
+,,
+Number of values,12,12

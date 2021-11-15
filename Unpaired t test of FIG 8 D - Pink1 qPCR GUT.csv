@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,FIG 8 D - Pink1 qPCR
+,
+Column B,Gut NP3084>Pink1RNAi
+vs.,vs.
+Column A,Gut NP3084>+
+,
+Unpaired t test,
+    P value,0.0521
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+    One- or two-tailed P value?,Two-tailed
+    t, df,t=2.737, df=4
+,
+How big is the difference?,
+    Mean of column A,1.026
+    Mean of column B,0.5255
+    Difference between means (B - A) ± SEM,-0.5005 ± 0.1829
+    95% confidence interval,-1.008 to 0.007213
+    R squared (eta squared),0.6519
+,
+F test to compare variances,
+    F, DFn, Dfd,2.579, 2, 2
+    P value,0.5589
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+,
+Data analyzed,
+    Sample size, column A,3
+    Sample size, column B,3
