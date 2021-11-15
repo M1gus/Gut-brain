@@ -1,0 +1,21 @@
+﻿,
+Table Analyzed,mito length Fig 4C
+,
+Column B,pink1B9, NP3084>mitoGFP
+vs.,vs.
+Column A,w1118, NP3084>mitoGFP
+,
+Mann Whitney test,
+    P value,<0.0001
+    Exact or approximate P value?,Approximate
+    P value summary,****
+    Significantly different (P < 0.05)?,Yes
+    One- or two-tailed P value?,Two-tailed
+    Sum of  ranks in column A,B,25610 , 17462
+    Mann-Whitney U,4582
+,
+Difference between medians,
+    Median of column A,0.8692, n=133
+    Median of column B,0.6037, n=160
+    Difference: Actual,-0.2655
+    Difference: Hodges-Lehmann,-0.2350

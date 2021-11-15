@@ -1,0 +1,21 @@
+﻿,
+Table Analyzed,FIG 8 E - Pink1 RNAi PPL1
+,
+Column B,NP3084> RNAi pink1 31170
+vs.,vs.
+Column A,NP3084>+
+,
+Mann Whitney test,
+    P value,0.4246
+    Exact or approximate P value?,Exact
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+    One- or two-tailed P value?,Two-tailed
+    Sum of  ranks in column A,B,166 , 134
+    Mann-Whitney U,56
+,
+Difference between medians,
+    Median of column A,12.00, n=12
+    Median of column B,12.00, n=12
+    Difference: Actual,0.000
+    Difference: Hodges-Lehmann,0.000

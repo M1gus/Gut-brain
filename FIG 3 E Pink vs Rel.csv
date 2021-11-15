@@ -1,0 +1,28 @@
+﻿,,,
+Table Analyzed,FIG 3 E-Smurf,,
+,,,
+P value and statistical significance,,,
+  Test,Chi-square,,
+  Chi-square, df,5.098, 1,,
+  z,2.258,,
+  P value,0.0240,,
+  P value summary,*,,
+  One- or two-sided,Two-sided,,
+  Statistically significant (P < 0.05)?,Yes,,
+,,,
+Data analyzed,Pink1B9;+,+,w;;Rel E20/+,Total
+  Smurf,25,1,26
+  Non Smurf,47,15,62
+  Total,72,16,88
+,,,
+Percentage of row total,Pink1B9;+,+,w;;Rel E20/+,
+  Smurf,96.15%,3.85%,
+  Non Smurf,75.81%,24.19%,
+,,,
+Percentage of column total,Pink1B9;+,+,w;;Rel E20/+,
+  Smurf,34.72%,6.25%,
+  Non Smurf,65.28%,93.75%,
+,,,
+Percentage of grand total,Pink1B9;+,+,w;;Rel E20/+,
+  Smurf,28.41%,1.14%,
+  Non Smurf,53.41%,17.05%,

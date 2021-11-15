@@ -1,0 +1,27 @@
+﻿,Pink1B9;;Ilp2 HF,Pink1B9;;Ilp2 HF, Rel E20,w;;Ilp2 HF,w;;ilp2 HF,RelE20
+Test for normal distribution,,,,
+  Anderson-Darling test,,,,
+    A2*,0.3570,N too small,N too small,N too small
+    P value,0.3566,,,
+    Passed normality test (alpha=0.05)?,Yes,,,
+    P value summary,ns,,,
+,,,,
+  D'Agostino & Pearson test,,,,
+    K2,0.06160,N too small,N too small,N too small
+    P value,0.9697,,,
+    Passed normality test (alpha=0.05)?,Yes,,,
+    P value summary,ns,,,
+,,,,
+  Shapiro-Wilk test,,,,
+    W,0.9196,0.8454,0.9668,0.9817
+    P value,0.4267,0.1115,0.8701,0.9673
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes,Yes
+    P value summary,ns,ns,ns,ns
+,,,,
+  Kolmogorov-Smirnov test,,,,
+    KS distance,0.2086,0.2789,0.1871,0.1565
+    P value,>0.1000,>0.1000,>0.1000,>0.1000
+    Passed normality test (alpha=0.05)?,Yes,Yes,Yes,Yes
+    P value summary,ns,ns,ns,ns
+,,,,
+Number of values,8,7,6,7
